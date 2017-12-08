@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Test image.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7F4028F6AF10434EE349C6FDB4F21974588B4D18</string>
+				<key>dateExpires</key>
+				<string>26/11/2018</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Z4R5KUSH36.cx.huangwei.ar.magnifier</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Z4R5KUSH36</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>Z4R5KUSH36.cx.huangwei.ar.magnifier</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Test image.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cbf9468e-ee20-4725-b42c-8852f6b61257</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: cx.huangwei.ar.magnifier</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Z4R5KUSH36</string>
+				<key>name</key>
+				<string>伟 黄</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

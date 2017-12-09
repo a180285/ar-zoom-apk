@@ -1,43 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://a180285.github.io/ar-zoom-apk/ar-zoom/ar-zoom.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://a180285.github.io/ar-zoom-apk/ar-zoom/Icon-App-57x57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://a180285.github.io/ar-zoom-apk/ar-zoom/ItunesArtwork.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>cx.huangwei.ar.magnifier</string>
-				<key>bundle-version</key>
-				<string>1.0.2</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>ar-zoom</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
-</plist>
+https://s3.ap-northeast-2.amazonaws.com/ar.huangwei.cx/ar-zoom/index.html
+https://s3.ap-northeast-2.amazonaws.com/ar.huangwei.cx/ar-zoom/ar-zoom.ipa
+https://s3.ap-northeast-2.amazonaws.com/ar.huangwei.cx/ar-zoom/Icon-App-57x57.png
+https://s3.ap-northeast-2.amazonaws.com/ar.huangwei.cx/ar-zoom/ItunesArtwork.png
